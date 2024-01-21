@@ -2,275 +2,275 @@
 
 const listImages = [
     {
-        src: './csenes/заставка1.0.jpg',
+        src: 'заставка1.0.jpg',
         nameImg: 'Воздушный шар',
     },
     {
-        src: './csenes/заставка111.jpg',
+        src: 'заставка111.jpg',
         nameImg: 'Воздушный шар',
     },
     {
-        src: './csenes/заставка1111.jpg',
+        src: 'заставка1111.jpg',
         nameImg: 'Воздушный шар',
     },
     {
-        src: './csenes/сцена4.jpg',
+        src: 'сцена4.jpg',
         nameImg: 'Ещё что-то',
     },
     {
-        src: './csenes/сцена5.jpg',
+        src: 'сцена5.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена6.jpg',
+        src: 'сцена6.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена7.jpg',
+        src: 'сцена7.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена8.jpg',
+        src: 'сцена8.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена9.jpg',
+        src: 'сцена9.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена10.jpg',
+        src: 'сцена10.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена11.jpg',
+        src: 'сцена11.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена12.jpg',
+        src: 'сцена12.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена13.jpg',
+        src: 'сцена13.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена14.jpg',
+        src: 'сцена14.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена15.jpg',
+        src: 'сцена15.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена16.jpg',
+        src: 'сцена16.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена17.jpg',
+        src: 'сцена17.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена18.jpg',
+        src: 'сцена18.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена19.jpg',
+        src: 'сцена19.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена20.jpg',
+        src: 'сцена20.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена21.jpg',
+        src: 'сцена21.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена22.jpg',
+        src: 'сцена22.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена23.jpg',
+        src: 'сцена23.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена24.png',
+        src: 'сцена24.png',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена25.png',
+        src: 'сцена25.png',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена26.png',
+        src: 'сцена26.png',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена27.png',
+        src: 'сцена27.png',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена28.png',
+        src: 'сцена28.png',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена29.png',
+        src: 'сцена29.png',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена30.png',
+        src: 'сцена30.png',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена31.png',
+        src: 'сцена31.png',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена32.png',
+        src: 'сцена32.png',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена33.png',
+        src: 'сцена33.png',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена34.png',
+        src: 'сцена34.png',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена35.png',
+        src: 'сцена35.png',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена36.png',
+        src: 'сцена36.png',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена37.png',
+        src: 'сцена37.png',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена38.png',
+        src: 'сцена38.png',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена39.png',
+        src: 'сцена39.png',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена40.png',
+        src: 'сцена40.png',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена41.jpg',
+        src: 'сцена41.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена42.jpg',
+        src: 'сцена42.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена43.jpg',
+        src: 'сцена43.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена44.jpg',
+        src: 'сцена44.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена45.jpg',
+        src: 'сцена45.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена46.jpg',
+        src: 'сцена46.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/школа47.jpg',
+        src: 'школа47.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена48.jpg',
+        src: 'сцена48.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена49.jpg',
+        src: 'сцена49.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена50.jpg',
+        src: 'сцена50.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена51.jpg',
+        src: 'сцена51.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена52.jpg',
+        src: 'сцена52.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена53.jpg',
+        src: 'сцена53.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена54.jpg',
+        src: 'сцена54.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена55.jpg',
+        src: 'сцена55.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена56.jpg',
+        src: 'сцена56.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена57.jpg',
+        src: 'сцена57.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена58.jpg',
+        src: 'сцена58.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена59.jpg',
+        src: 'сцена59.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена60.jpg',
+        src: 'сцена60.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена61.jpg',
+        src: 'сцена61.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена62.jpg',
+        src: 'сцена62.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена63.jpg',
+        src: 'сцена63.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена64.jpg',
+        src: 'сцена64.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена65.jpg',
+        src: 'сцена65.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена66.jpg',
+        src: 'сцена66.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена67.jpg',
+        src: 'сцена67.jpg',
         nameImg: 'АА',
     },
     {
-        src: './csenes/сцена68.jpg',
+        src: 'сцена68.jpg',
         nameImg: 'АА',
     },
     {
